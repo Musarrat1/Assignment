@@ -67,3 +67,14 @@
   font-weight: 700;
   max-width: 400px;
 }
+.info1{
+  font-weight: 400;
+  opacity: 0.70;
+  color: #0D1321;
+}
+.btn-bg2{
+  padding:12px 20px;
+}
+.t3 info1 ali3{
+  display: flex;
+}
