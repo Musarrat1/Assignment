@@ -58,3 +58,12 @@
 .description{
   text-align: center;
 }
+.info{
+  margin-top: 48px ;
+}
+.t2{
+  color: rgba(13, 19, 33, 0.70);
+  font-size: 24px;
+  font-weight: 700;
+  max-width: 400px;
+}
